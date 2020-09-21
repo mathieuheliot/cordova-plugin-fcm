@@ -26,8 +26,7 @@
     <keywords>cordova, fcm, push, plugin</keywords>
 
     <info>
-		Cordova FCM Plugin v3.0.3 installed
-		For more details visit https://github.com/ostownsville/cordova-plugin-fcm
+		Cordova FCM Plugin v3.0.4 installed
 	</info>
 
     <js-module src="www/FCMPlugin.js" name="FCMPlugin">
